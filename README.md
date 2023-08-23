@@ -5,7 +5,7 @@ Welcome to my Machine Learning Models Portfolio! This collection showcases the v
 - Introduction
 - Models
 - Contacting
-- 
+
 ### Introduction
 In this repository, you'll find a series of machine-learning models that I meticulously worked on between May and August. This span of time was dedicated to mastering the art of crafting efficient and accurate machine-learning solutions. As a passionate learner in the field, I believe in continuous improvement and innovation, which is reflected in the progression of models presented here.
 The culmination of this effort resulted in me being awarded a prestigious Machine Learning Certificate from Cornell Tech. This certificate signifies the successful completion of my dedicated learning period and the practical application of machine-learning concepts to real-world problems
@@ -23,10 +23,13 @@ KNN & Decision Trees: Compiled Jupyter notebooks delineating the progressive acq
 **Regression Models**: Engaged in a comprehensive study of diverse regression models, acquiring adeptness in strategic model stacking and comparative analysis, underscoring an advanced proficiency in regression methodologies.
 
 _(IN DEVELOPMENT...)_
+
 Each model directory contains its own README file, providing more details about the model's architecture, dataset used, training process, evaluation metrics, and notable insights gained.
+
 _(IN DEVELOPMENT...)_
 
-Contacting
+### Contacting
+
 Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities. I'm always excited to connect with fellow developers and enthusiasts. You can contact me through the following channels:
 
 Email: noahcdufresne@gmail.com

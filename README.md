@@ -14,7 +14,8 @@ The culmination of this effort resulted in me being awarded a prestigious Machin
 In each folder, there are different types of models.
 
 **Final Project**: Orchestrated a synergy between TF-IDF and Logistic Regression within a structured pipeline, meticulously optimizing hyperparameters via ROC_AUC analysis for an NLP machine learning model.
-KNN & Decision Trees: Compiled Jupyter notebooks delineating the progressive acquisition of expertise in K-nearest neighbors and Decision Trees, encapsulating an analytical journey.
+
+**KNN & Decision Trees:** Compiled Jupyter notebooks delineating the progressive acquisition of expertise in K-nearest neighbors and Decision Trees, encapsulating an analytical journey.
 
 **Logistic Regression**: Navigated the nuanced terrain of model selection and intricate logistic regression model optimization techniques.
 

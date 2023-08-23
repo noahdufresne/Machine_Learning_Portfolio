@@ -33,7 +33,9 @@ _(IN DEVELOPMENT...)_
 Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities. I'm always excited to connect with fellow developers and enthusiasts. You can contact me through the following channels:
 
 Email: noahcdufresne@gmail.com
-LinkedIn: noahdufresne
-Twitter: noahthedufresne
+
+LinkedIn: [noahdufresne](https://www.linkedin.com/in/noahdufresne/)
+
+Twitter: [noahthedufresne](https://twitter.com/noahthedufresne)
 
 Don't hesitate to drop a message. Looking forward to hearing from you!

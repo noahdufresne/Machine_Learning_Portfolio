@@ -17,11 +17,10 @@
 - Accuracy Score
 
 #### Datasets: 
-- ["cell2celltrain" ](https://www.kaggle.com/datasets/jpacse/datasets-for-churn-telecom?resource=download)
+- ["cell2celltrain"](https://www.kaggle.com/datasets/jpacse/datasets-for-churn-telecom?resource=download): 
 We have compiled a comprehensive dataset from Cell2Cell Telecom company, which comprises of more than 10 million customers and entails an average monthly churn rate of 4%. More info here: [CELL2CELL: THE CHURN GAME](https://pdfcoffee.com/cell2cell-case-pdf-free.html)
 
-- ["Airbnb NYC listings"](http://insideairbnb.com/new-york-city)
-- **CANNOT DOWNLOAD DATA**. This report contains relevant information regarding New York City listings as of December 4th, 2021. For the purposes of predictive analysis, we have omitted any fields containing URLs, descriptions, names, neighborhood overviews, host information, and host locations.
+- ["Airbnb NYC listings"](http://insideairbnb.com/new-york-city): **CANNOT DOWNLOAD DATA**. This report contains relevant information regarding New York City listings as of December 4th, 2021. For the purposes of predictive analysis, we have omitted any fields containing URLs, descriptions, names, neighborhood overviews, host information, and host locations.
 
 
 #### Models:

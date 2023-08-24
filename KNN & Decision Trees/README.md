@@ -3,21 +3,20 @@
 This folder showcases predictive analysis using Decision Trees and K-Nearest Neighbors (KNN) classifiers. This project utilizes a range of libraries and methodologies to explore and model datasets, aiming to uncover valuable insights and predictions.
 
 #### Libraries: 
-- Pandas
-- NumPy
-- os
-- matplotlib 
-- Seaborn
-- sklearn
+- **Pandas**: For efficient data manipulation and analysis.
+- **NumPy**: Enabling numerical computations and array operations.
+- **os**: Facilitating interaction with the operating system for file handling.
+- **matplotlib**: Creating insightful visualizations and plots.
+- **Seaborn**: Enhancing the quality and aesthetics of visualizations.
+- **sklearn**: Utilized for machine learning algorithms and evaluation metrics.
 
 #### Methodologies: 
-- One-Hot Encoding
-- DecisionTree
-- GridSearch Cross Validation
-- Precision-Recall Curve
-- DecisionTreeClassifier
-- KNeighborsClassifier
-- Accuracy Score
+- **One-Hot Encoding**: Transforming categorical data into a suitable format for machine learning models.
+- **GridSearch Cross Validation**:  Optimizing hyperparameters through grid search and cross-validation.
+- **Precision-Recall Curve**: Visualizing precision and recall trade-offs in models.
+- **DecisionTreeClassifier**: Utilizing decision tree classifiers for predictive analysis.
+- **KNeighborsClassifier**: Leveraging KNN classifiers to analyze patterns in data.
+- **Accuracy Score**: Quantifying the accuracy of models through evaluation metrics.
 
 #### Datasets: 
 - ["cell2celltrain"](https://www.kaggle.com/datasets/jpacse/datasets-for-churn-telecom?resource=download): 

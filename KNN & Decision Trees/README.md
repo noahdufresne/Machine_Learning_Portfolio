@@ -1,3 +1,6 @@
+# Predictive Analysis with Decision Trees and KNN Classifiers
+
+This folder showcases predictive analysis using Decision Trees and K-Nearest Neighbors (KNN) classifiers. This project utilizes a range of libraries and methodologies to explore and model datasets, aiming to uncover valuable insights and predictions.
 
 #### Libraries: 
 - Pandas

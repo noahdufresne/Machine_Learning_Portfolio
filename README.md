@@ -25,7 +25,7 @@ In each folder, there are different types of models.
 
 _(IN DEVELOPMENT...)_
 
-Each model directory contains its own README file, providing more details about the model's architecture, dataset used, training process, evaluation metrics, and notable insights gained.
+Each model directory contains its own README file, providing more details about the model's architecture, dataset used, training process, and evaluation metrics.
 
 _(IN DEVELOPMENT...)_
 
